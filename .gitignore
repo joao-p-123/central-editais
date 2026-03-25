@@ -16,6 +16,9 @@
 /public/build
 /public/hot
 /public/storage
+/bootstrap/cache/*.php
+/database/*.sqlite
+/database/banco
 /storage/*.key
 /storage/pail
 /vendor
